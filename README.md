@@ -63,3 +63,14 @@
 ## License
 
 MIT
+
+
+## 方法论 Skills
+
+除主 `strategy-research` Skill 外，本仓库开始沉淀可复用的战略分析方法论 Skill：
+
+| Skill | 用途 |
+|---|---|
+| [influence-factor-analysis](./skills/influence-factor-analysis/SKILL.md) | 影响因素筛选、评分模型、组合分析、弱因素淘汰、异常样本解释；适用于市场进入、区域选择、合作方筛选、产品组合、项目优先级与风险预警 |
+
+后续新增方法论优先放在 `skills/<skill-name>/` 下，每个 Skill 独立维护 `SKILL.md`，并可附带 `templates/` 与 `references/`。
